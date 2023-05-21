@@ -58,6 +58,7 @@ nav {
   grid-area: timeline;
 
   padding: 64px;
+  overflow-y: scroll;
 }
 
 .memory {
